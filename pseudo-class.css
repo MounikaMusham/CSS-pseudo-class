@@ -1,0 +1,38 @@
+.one{
+    background-color: blue;
+    color: white;
+    width: 100x;
+    height: 50px;
+    border: 3px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 70px;
+
+}
+div{
+    height: 200px;
+    width: 500px;
+    background-color: blanchedalmond;
+    border: 3px dashed yellow;
+    margin: 100px;
+
+}
+.two{
+    margin-left: 40px;
+}
+button:hover{
+    background-color: violet;
+}
+button:visited{
+    background-color: turquoise;
+}
+button:active{
+    background-color: yellow;
+}
+h2{
+    text-align: center;
+    color: brown;
+}
